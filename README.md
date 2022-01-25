@@ -8,4 +8,5 @@
 
 **How these skills helpful in future works:
 
-1.
+1. I can do data analysis to detect the outliers.
+2. I can clean the data with noisy data
