@@ -1,6 +1,6 @@
 # House_price_prediction
 
-**Skills I have learnt from this project:
+**Skills I have learnt from this project:**
 
 1.Pandas
 
@@ -8,7 +8,7 @@
 
 3.Numpy and sklearn
 
-**How these skills helpful in future works:
+**How these skills helpful in future works:**
 
 1. I can do data analysis to detect the outliers.
 
